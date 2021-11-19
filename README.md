@@ -1,2 +1,2 @@
-# Practica Layout Shift
-This is a practice of Design Pattern Layout Shift in Responsive Design
+# Practica Layout Shifter
+This is a practice of Design Pattern Layout Shifter in Responsive Design
